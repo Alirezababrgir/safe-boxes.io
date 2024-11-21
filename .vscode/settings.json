@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#09351B",
+        "titleBar.activeBackground": "#0C4A25",
+        "titleBar.activeForeground": "#F3FDF7"
+    }
+    //"liveServer.settings.CustomBrowser": "firefox",
+}

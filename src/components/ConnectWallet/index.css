@@ -1,0 +1,40 @@
+.wallets {
+    width: 250px;
+    height: 220px;
+    object-fit: contain;
+    cursor: pointer;
+    margin: auto;
+    object-position: center;
+}
+
+@media (max-width: 1000px) {
+    .wallets {
+        width: 150px;
+        height: 70px;
+    }
+}
+
+@media (max-width: 700px) {
+    .wallets {
+        width: 120px;
+        height: 70px;
+    }
+}
+
+@media (max-width: 600px) {
+    .wallets {
+        margin: auto;
+        display: block;
+        width: 120px;
+        height: 70px;
+    }
+}
+
+@media (max-width: 571px) {
+    .wallets {
+        margin: auto;
+        display: block;
+        width: 170px;
+        height: 60px;
+    }
+}
